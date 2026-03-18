@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="image.png" width="150"/>
+  <img src="image.png" width="300"/>
   
   # Signal
   
-  A fast, lightweight signal library for Luau — with generic types and a simple API.
-  
+  A fast, lightweight signal library for Luau.
+
   ⚡ Fast. Simple. Reliable.
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About
 
-Signal is a doubly linked list signal library built for performance. No bloat, no unnecessary abstractions — just a clean and efficient implementation that gets out of your way.
+Signal is a fast and lightweight signal library for Luau. Simple to use and built with performance in mind.
 
 Benchmarked against SignalPlus:
 
